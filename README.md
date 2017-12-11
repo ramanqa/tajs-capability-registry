@@ -1,0 +1,1 @@
+# tajs-test-capability-registry
